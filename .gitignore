@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TravelDiary.Blog.Command.Api/bin/Debug/net6.0
+/TravelDiary.Blog.Command.Api/obj
+/TravelDiary.Blog.Command.Api/Properties/PublishProfiles
+/TravelDiary.Blog.Command.Business/obj
+/TravelDiary.Blog.Command.Business/bin/Debug/net6.0
+/TravelDiary.Blog.Command.Business.Interface/obj
+/TravelDiary.Blog.Command.Business.Interface/bin/Debug/net6.0
+/TravelDiary.Blog.Command.Core/bin/Debug/net6.0
+/TravelDiary.Blog.Command.Core/obj
+/TravelDiary.Blog.Command.Data/obj
+/TravelDiary.Blog.Command.Data/bin/Debug/net6.0
+/TravelDiary.Blog.Command.Domain/obj
+/TravelDiary.Blog.Command.Domain/bin/Debug/net6.0
+*.bak

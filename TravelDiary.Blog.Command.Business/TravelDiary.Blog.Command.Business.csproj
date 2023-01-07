@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TravelDiary.Blog.Command.Business.Interface\TravelDiary.Blog.Command.Business.Interface.csproj" />
+    <ProjectReference Include="..\TravelDiary.Blog.Command.Data\TravelDiary.Blog.Command.Data.csproj" />
+  </ItemGroup>
+
+</Project>
