@@ -128,6 +128,10 @@ namespace Travel.Blog.Command.Api.Controllers
         }
 
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public IActionResult Get()
         {
